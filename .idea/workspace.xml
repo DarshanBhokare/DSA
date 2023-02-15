@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Implemented CustomQueue">
-      <change afterPath="$PROJECT_DIR$/src/Queue/CircularQueue.java" afterDir="false" />
+    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Implemented CircularQueue">
+      <change afterPath="$PROJECT_DIR$/src/Queue/DynamicQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676419221769</updated>
       <workItem from="1676419222967" duration="1620000" />
-      <workItem from="1676486197688" duration="3912000" />
+      <workItem from="1676486197688" duration="5399000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1676419261818</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676500762420</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented CircularQueue">
+      <created>1676501514535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676501514535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +130,8 @@
     <MESSAGE value="Initial" />
     <MESSAGE value="Implemented DynamicStack" />
     <MESSAGE value="Implemented CustomQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented CustomQueue" />
+    <MESSAGE value="Implemented CircularQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented CircularQueue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
