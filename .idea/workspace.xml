@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/src/stack/DynamicStack.java" afterDir="false" />
+    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Implemented DynamicStack">
+      <change afterPath="$PROJECT_DIR$/src/Queue/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/CustomStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QueueMain">
+    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.QueueMain" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.StackMain" />
       <module name="DSA" />
@@ -53,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StackMain" />
       </list>
     </recent_temporary>
@@ -66,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676419221769</updated>
       <workItem from="1676419222967" duration="1620000" />
-      <workItem from="1676486197688" duration="1167000" />
+      <workItem from="1676486197688" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1676419261818</created>
@@ -75,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676419261818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented DynamicStack">
+      <created>1676498239111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676498239111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Implemented DynamicStack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented DynamicStack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -107,6 +129,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Queue/QueueMain.java</url>
+          <line>4</line>
+          <properties class="Queue.QueueMain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
