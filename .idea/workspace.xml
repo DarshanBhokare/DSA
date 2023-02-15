@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/src/stack/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/StackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/DynamicStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/CustomStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.StackMain" />
@@ -67,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676419221769</updated>
       <workItem from="1676419222967" duration="1620000" />
+      <workItem from="1676486197688" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1676419261818</created>
