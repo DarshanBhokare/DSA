@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Implemented DynamicStack">
-      <change afterPath="$PROJECT_DIR$/src/Queue/CustomQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/QueueMain.java" afterDir="false" />
+    <list default="true" id="85b76ec2-234c-4f30-9738-ea768216faa5" name="Changes" comment="Implemented CustomQueue">
+      <change afterPath="$PROJECT_DIR$/src/Queue/CircularQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676419221769</updated>
       <workItem from="1676419222967" duration="1620000" />
-      <workItem from="1676486197688" duration="3161000" />
+      <workItem from="1676486197688" duration="3912000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1676419261818</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676498239111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implemented CustomQueue">
+      <created>1676500762420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676500762420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Implemented DynamicStack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented DynamicStack" />
+    <MESSAGE value="Implemented CustomQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented CustomQueue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
